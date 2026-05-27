@@ -30,9 +30,9 @@ virtualenv/
 Thumbs.db
 
 # Project generated outputs (reproducible)
-batch_results/
-*.json
-*.csv
+# batch_results/
+# *.json
+# *.csv
 
 detected_license_plates/
 *.jpg

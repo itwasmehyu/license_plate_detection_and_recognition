@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-05-27T15:08:42.301978",
+  "total_images_processed": 931,
+  "total_license_plates_detected": 726,
+  "detection_rate": "1452.00%",
+  "average_detection_confidence": 0.9657783445904734,
+  "average_ocr_confidence": 0.672194423210893
+}
